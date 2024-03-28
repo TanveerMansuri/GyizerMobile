@@ -12,7 +12,6 @@ import Delete from '../../component/dialogue';
 const { scale } = unit;
 const { Add } = images;
 
-
 const DashboardContainer = () => {
 
     const [state, setState] = useState({
